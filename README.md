@@ -1,10 +1,10 @@
 ### 👋 Hello World, I'm Vinícius! 🌎 
-✅ Sou  um Desenvolvedor Full-Stack 
+✅ Sou um Desenvolvedor Front-end
 
 
 - 🚀 Buscando novos desafios.   
 - ⚡  Buscando colaborar com projetos desafiadores.   
-- 💻 Minha stack: HTML, CSS, TypeScript, JavaScript e Java.   
+- 💻 Minha stack: HTML, CSS, JavaScript.   
 - 📘 Estudando FrontEnd em <a href="https://www.origamid.com/cursos/">Origamid</a> 
 - 💬 Sobre mim: Gosto de aprender tecnologias novas e sempre está inovando minha pull de stacks   
 - 📫 dev_bacellar@outlook.com   
@@ -18,8 +18,8 @@
 <p align="center">
   <strong>Algumas redes sociais!</strong>
  <p align="center">
-  <a href="https://www.linkedin.com/in/danilo-polastri-235868188/" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leovdn"></a>  
-  <a href="mailto:danilopolastri.ti@gmail.com" alt="Email"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilopolastri.ti@gmail.com"></a>  
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-bacellar-8b271a1b4/" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=""></a>  
+  <a href="mailto:dev_bacellar@outlook.com" alt="Email"><img src="https://image.flaticon.com/icons/png/512/732/732223.png" height="20"></a>  
   </p>
 </p>
 
