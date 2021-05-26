@@ -4,7 +4,7 @@
 
 - 🚀 Buscando novos desafios.   
 - ⚡  Buscando colaborar com projetos desafiadores.   
-- 💻 Minha stack: HTML, CSS, JavaScript.   
+- 💻 Minha stack: HTML, CSS, JavaScript, Java   
 - 📘 Estudando FrontEnd em <a href="https://www.origamid.com/cursos/">Origamid</a> 
 - 💬 Sobre mim: Gosto de aprender tecnologias novas e sempre está inovando minha pull de stacks   
 - 📫 dev_bacellar@outlook.com   
