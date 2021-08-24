@@ -1,5 +1,5 @@
 ### 👋 Hello World, I'm Vinícius! 🌎 
-✅ Sou um Desenvolvedor Front-end
+✅ Sou um Desenvolvedor full-stack
 
 
 - 🚀 Buscando novos desafios.   
