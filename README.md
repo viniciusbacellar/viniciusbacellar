@@ -9,8 +9,6 @@
 - 💬 Sobre mim: Gosto de aprender tecnologias novas e sempre está inovando minha pull de stacks   
 - 📫 dev_bacellar@outlook.com   
 
-<
-
 
 <p align="center">
   <strong>Algumas redes sociais!</strong>
