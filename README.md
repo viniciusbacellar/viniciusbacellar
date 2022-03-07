@@ -9,6 +9,7 @@
 - 💬 Sobre mim: Gosto de aprender tecnologias novas e sempre está inovando minha pull de stacks   
 - 📫 dev_bacellar@outlook.com   
 
+![cat-computer](https://user-images.githubusercontent.com/79605470/157049194-70232735-ccb0-42a4-bf5a-eab08dae0c9f.gif)
 
 <p align="center">
   <strong>Algumas redes sociais!</strong>
@@ -18,4 +19,4 @@
 </p>
 
 
-![cat-computer](https://user-images.githubusercontent.com/79605470/157049194-70232735-ccb0-42a4-bf5a-eab08dae0c9f.gif)
+
