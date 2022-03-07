@@ -13,9 +13,9 @@
 <p align="center">
   <strong>Algumas redes sociais!</strong>
  <p align="center">
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-bacellar-8b271a1b4/" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=""></a>  
-  <a href="mailto:dev_bacellar@outlook.com" alt="Email"><img src="https://image.flaticon.com/icons/png/512/732/732223.png" height="20"></a>  
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-bacellar-8b271a1b4/" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=""></a> 
   </p>
 </p>
 
 
+![cat-computer](https://user-images.githubusercontent.com/79605470/157049194-70232735-ccb0-42a4-bf5a-eab08dae0c9f.gif)
