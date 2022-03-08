@@ -1,9 +1,6 @@
 ### 👋 Hello World, I'm Vinícius! 🌎 
 ✅ Sou um Desenvolvedor full-stack
-
-
-- 🚀 Buscando novos desafios.   
-- ⚡  Buscando colaborar com projetos desafiadores.   
+ 
 - 💻 Minha stack: HTML, CSS, JavaScript e Java.   
 - 📘 Estudando FrontEnd em <a href="https://www.origamid.com/cursos/">Origamid</a> 
 - 💬 Sobre mim: Gosto de aprender tecnologias novas e sempre está inovando minha pull de stacks   
